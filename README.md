@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**haritanshu93/haritanshu93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning more shell script
+- 💬 Ask me about what is my next game 
+- 🤣 Joke: I forgot python?🤣
 
-Here are some ideas to get you started:
+### Games or Game Addons i am working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# not started
+none
+# in progress
+Minecraft texture pack
+# finished
+luckynum
+randomnum
+
