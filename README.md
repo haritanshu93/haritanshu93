@@ -7,10 +7,10 @@
 ### Games or Game Addons i am working on
 
 # not started
-none
+### none
 # in progress
-Minecraft texture pack
+### Minecraft texture pack
 # finished
-luckynum
-randomnum
+### luckynum
+### randomnum
 
